@@ -79,7 +79,7 @@ Use optimized QQ-S settings to make clean prints with strength and precision. I 
 
    ![Step 12](images/7.jpg "Step 12")
 
-13. Wait at least 10-15 minutes for all the glue so far to cure and stabilize.
+13. Repeat the previous 4 steps for the other middle. Wait at least 10-15 minutes for all the glue so far to cure and stabilize.
 
 14. Apply glue to the top of both poles on the first base piece. Insert the first middle piece's spacer pieces into the poles and press down firmly so that the glue on the pole binds to the middle piece itself. You may need to apply considerably pressure to ensure it seats all the way.
 
