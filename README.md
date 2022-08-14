@@ -175,7 +175,7 @@ This part is definitely trickier than the frame assembly. I went through several
 
 The sheet attachment is now complete.
 
-![Completed](images/20.jpg "Completed")
+![Completed Side](images/20.jpg "Completed Side")
 
 ## Assembly Instructions - Attach Sides to Printer
 
@@ -200,6 +200,8 @@ The sheet attachment is now complete.
 9. Attach the door handle in an appropriate location with superglue and allow it to cure.
 
 The enclosure is now fully assembled.
+
+![Completed Enclosure](images/21.jpg "Completed Side")
 
 ## License
 
