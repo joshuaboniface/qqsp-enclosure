@@ -127,7 +127,7 @@ This part is definitely trickier than the frame assembly. I went through several
 
    ![Step 3](images/15.jpg "Step 3")
 
-4. Take the frame and apply a steady bead of glue along the lip of the poles down one entire side [first image]. Working quickly, flip the frame around and fit the corner here firmly against the edge of the board so that the "sharp" edge of the board presses the sheet firmly into the glue along the lip. Add the weights similar to what is shown to keep the frame held down against the sheet for approximately 10-15 minutes while the glue cures.
+4. Take the frame and apply a steady bead of glue along the lip of the poles down one entire side. Working quickly, flip the frame around and fit the corner here firmly against the edge of the board so that the "sharp" edge of the board presses the sheet firmly into the glue along the lip. Add the weights similar to what is shown to keep the frame held down against the sheet for approximately 10-15 minutes while the glue cures.
 
    ![Step 4](images/16.jpg "Step 4")
 
