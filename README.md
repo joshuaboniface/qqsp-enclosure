@@ -119,7 +119,7 @@ This part is definitely trickier than the frame assembly. I went through several
 
    ![Step 1](images/13.jpg "Step 1")
 
-2. Line up the straight long edge of the sheet with the edge of the board, leaving approximately 1cm of overhang over the edge of the board. Tape one corner down in both directions, then pull the sheet taut along each edge and tape it down, starting with the shorter edges. Ensure your tape does not protrude too far into the long dimension of the sheet so that it does not interfere with the frame later. The more taut the sheet is here, the more pressure will be put on the frame, so a careful balance is required, but the cleaner the sheet will look, so careful balance is important. I try to ensure the sheet is just slightly taut enough along the long side to avoid obvious creases.
+2. Line up the straight long edge of the sheet with the edge of the board, leaving approximately 1cm of overhang over the edge of the board. Tape one corner down in both directions, then pull the sheet taut along each edge and tape it down, starting with the shorter edges. Ensure your tape does not protrude too far into the long dimension of the sheet so that it does not interfere with the frame later. The more taut the sheet is here, the more pressure will be put on the frame, but the cleaner the sheet will look, so careful balance is important. I try to ensure the sheet is just slightly taut enough along the long side to avoid obvious creases.
 
    ![Step 2](images/14.jpg "Step 2")
 
